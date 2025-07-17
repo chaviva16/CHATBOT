@@ -1,4 +1,4 @@
-# Chatbot Project
+## Chatbot Project
 
 Welcome to the Chatbot Project! This chatbot is designed to assist users with a variety of tasks, making interactions engaging and informative. It showcases a diverse set of functionalities, leveraging multiple APIs and libraries to provide a comprehensive experience.
 
@@ -11,7 +11,8 @@ Welcome to the Chatbot Project! This chatbot is designed to assist users with a 
 - **Jokes**: Shares random jokes to lighten up your day.
 - **Unit Conversion**: Converts between different units of measurement.
 - **Fun Facts**: Provides interesting and random fun facts.
-- **Reminders and Alarms**: Sets reminders and alarms to keep you on track.
+
+  🎯 **Live Demo**: [chatbot-companion.streamlit.app](https://chatbot-companion.streamlit.app/)
 
 ## Technologies Used
 - Python
